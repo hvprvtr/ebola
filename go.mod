@@ -1,4 +1,4 @@
-module github.com/jpillora/chisel
+module github.com/hvprvtr/ebola
 
 go 1.21
 
